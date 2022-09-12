@@ -1,0 +1,114 @@
+body {
+  font-family: sans-serif;
+  font-size: normal;
+  color: black; 
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+th.titlebar {
+  font-family: sans-serif;
+  color: black;
+  background: #ffffcc;
+}
+/* changed to th.titlebar, removed font-size: normal; */
+th.where {
+  font-family: sans-serif;
+  font-size: large;
+  color: black;
+  background: #ffffcc;
+}
+td {
+  font-family: sans-serif;
+  font-size: small;
+  color: black;
+  background: #ffffcc;
+}
+td.wlbutton {
+  background: #ffffcc;
+  text-align: center;
+}
+td.updateline {
+  font-size: small;
+  font-variant: small-caps;
+  text-align: center;
+}
+/* above: font-size: smaller; */
+td.blackinvis {
+  font-size: smaller;
+  color: black;
+  background: black;
+}
+div.section {
+  font-family: sans-serif;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-size: large;
+  color: black;
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+div.menu {
+  font-variant: small-caps;
+  font-weight: bold;
+  color: black;
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+div.byline {
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align: right;
+  color: black;
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+div.bylineleft {
+  font-variant: small-caps;
+  font-weight: bold;
+  text-align: left;
+  color: black;
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+td.egrouphdr {
+  font-weight: bold;
+  color: #ffffff;
+  background: #000000;
+}
+td.egroupbody {
+  font-family: serif;
+  font-size: normal;
+  color: black;
+  background: #ffffcc;
+}
+td.webring {
+  font-size: normal;
+  text-align: center;
+}
+/* below used by index.html */
+body.index {
+  background: black;
+}
+td.index {
+  font-family: Verdana;
+  color: white;
+  background: black;
+}
+td.tributes {
+  vertical-align: top;
+}
+span.skip {
+  color: white;
+  font-weight: bold;
+}
+span.grey {
+  color: #999999;
+}
+span.red {
+  color: red;
+}
+span.darkred {
+   color: darkred;
+   font-size: large;
+}
+th.background {
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}
+div.fanmail {
+  background: #ffffcc url(graphics/wlbg.jpg) repeat;
+}

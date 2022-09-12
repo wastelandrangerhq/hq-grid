@@ -1,0 +1,231 @@
+Game System: PC 
+Cheat Category: HEX cheat 
+Game Category: HEX cheat 
+
+
+Game : Fountain of Dreams
+Type : Savefile\Character Editor Techspecs
+Date : July 15th 1990
+Author : Dark Fiber [AIH]
+
+the save game files are actually the files
+
+DISK1.
+DISK2.
+DISK3.
+DISK4.
+
+backup those four files BEFORE you play the game, then restore them
+so no need to re-install
+
+
+Savefile Layout
+
+Offset Descr Type
+0008 Hour (relative form 0 to 23) byte
+0009 minute (from 0 to 59) byte
+000E Money DWord
+0031 Total num chars in party (1=1,etc) byte
+0032 Character Order Byte[5]
+eg: 0,3,1,2 = Character 1, 4, 2, 3 (char-1)
+0037 Day (relative from 0) Byte
+
+
+Char offsets = 003a, 0186, 02d2, 041e, 056a
+to work out xx offset for char Z then formula is
+character_offset_Z - ch_off_1 + item_offset
+eg: 2D2 - 3A + 57 = Charisma offset for character 3
+
+003a Name asciiz[12]
+0052 Strength byte
+0053 Intelligence byte
+0054 Dexterity byte
+0055 Will Power byte
+0056 Aptitude byte
+0057 Charisma byte
+0058 Luck byte
+005e Active Skills byte[16]
+Medic
+Lockpick
+Forgery!!
+Climb
+Pharmacy
+Bomb/Alarm Disarm
+Mechanics
+Electronics!!
+Cryptography!!
+Pickpocket!!
+FODDY FOD
+Doctor
+*Chameleon
+*Shriek
+*Stun
+*Corruption!!
+006e Passive Skills byte[16]
+Perception
+Stealth
+Languages
+Demolitions
+Brawling
+Blades
+Handgun
+Rifle
+Auto Weapon
+Boating!!
+Gunsmith
+Swim
+Evasion
+Gambling!!
+*Mutant Recog!!
+*Camouflage
+007e Condition Word
+0080 Maximum Condition Word
+0084 Equipped Item 1 byte
+0085 Equipped Item 2 byte
+0086 Equipped Item 3 byte
+0087 Equipped Item 4 byte
+value of FF = no item equipped
+other # = item # in inventory
+0088 Rank byte
+0092 Affliction byte
+(Bit encoded)
+00000001 - Poisoned
+00000010 - Irradiated
+00000100 - Rabid
+00001000 - Envenomed
+00010000 - Condition 5
+00100000 - Condition 6
+01000000 - Condition 7
+10000000 - Mutant
+009c Items byte[6] x 32
+1 item is 6 bytes long
+usually ones like ammo cartidges have 2nd byte as
+num of bullets in clip, etc.
+00 - Null Item0
+01 - Dollars
+02 - .22 Handgun
+03 - .45 Colt Pistol
+04 - 9mm Browning Pistol
+05 - Ochoa's Rifle
+06 - Elephant Gun
+07 - Shotgun
+08 - Uzi
+09 - Clown MegaUzi
+0A - Clown Mega Uzi
+0B - AK-47 Assault Rifle
+0C - .22 Clip
+0D - .38 Clip
+0E - .45 Clip (7)
+0F - .45 Clip (30)
+10 - .50 Clip
+11 - 5.56mm Clip (20)
+12 - 5.56mm Clip (30)
+13 - 7.62mm Clip (5)
+14 - 7.62mm Clip (18)
+15 - 7.62mm Clip (30)
+16 - 9mm Clip (13)
+17 - 9mm Clip (30)
+18 - 9mm Clip (40)
+19 - Shotgun Shells
+1A - Grenade
+1B - Plastic Explosives
+1C - TNT
+1D - Gas Balloons
+1E - Flamethrower
+1F - Napalm Cannister
+20 - Machete
+21 - Meat Cleaver
+22 - Carving Knife
+23 - Cane Knife
+24 - Scalpel
+25 - Pool Cue
+26 - Garcia Sunday Vest
+27 - Shagreen Vest
+28 - Shagreen suit
+29 - Leather Vest
+2A - Leather Suit
+2B - Flak Vest
+2C - Flak Suit
+2D - Rad Suit
+2E - Obeah Necklace
+2F - Kevlar Vest
+30 - Kevlar Suit
+31 - Leather Cap
+32 - Riot Helmet
+33 - Kevlar Derby
+34 - Flo's Chapeau
+35 - Strongbox Key
+36 - Jewelry
+37 - Canteen
+38 - Canteen, Sea Water
+39 - Empty Canteen
+3A - Vial of Sea Water
+3B - Empty Vial
+3C - DeSoto Rum
+3D - DeSoto's XXX Finest
+3E - Chateau Pierrot
+3F - Empty Bottle
+40 - Bottle of Sea Water
+41 - Broken Bottle
+42 - Brewhoe Nostrum
+43 - Voodoo Tonic
+44 - Voodoo Elixir
+45 - Voodoo Cologne
+46 - Guard's Journal
+47 - Imelda's Letters
+48 - Mario's Diary
+49 - DeSoto Vault Key
+4A - Clown Master Key
+4B - Red Key
+4C - Black Key
+4D - Garcia's Key
+4E - Van Gogh painting
+4F - Pollack painting
+50 - Ojnab painting
+51 - Velvet Elvis
+52 - Bust of Beethoven
+53 - Mutant Badge
+54 - Clown Make up
+55 - Silverware
+56 - Spark Plug
+57 - Bandage
+58 - 50' Rope
+59 - .38 Police Special
+5A - Remington 700 Rifle
+5B - M16A1 Assault Rifl
+5C - MAC10
+5D - Shovel
+5E - Mechanic Toolkit
+5F - Electronics Tools
+60 - Obeah Talisman
+61 - DeSoto Amulet
+62 - Miami PD Badge
+63 - Vial, Healing Water
+64 - Vial, Sea Water
+65 - Vial, alcohol
+66 - Canteen, Heal Water
+67 - Canteen, alcohol
+68 - Bottle, Heal Water
+69 - Bottle of alcohol
+6A - Bottle, blue tap
+6B - Bottle, green tap
+6C - Bottle, violet tap
+6D - Canteen, blue tap
+6E - Canteen, green tap
+6F - Canteen, violet tap
+70 - Vial, blue tap
+71 - Vial, green tap
+72 - Vial, violet tap
+73 - Imelda's brooch
+74 - Personal Radio
+75 - Rubber Boots
+
+#
+
+--
+--+--
+Dark Fiber [NuKE] | Entropy, killing the WWW bandwidth stealing
+a.k.a. Entropy | wankers in 1995.
+entropy@shell.break.com.au | [NuKE] 1995 world tour. Beware the Genome!
+.01a
+--+--

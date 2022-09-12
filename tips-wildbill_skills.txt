@@ -1,0 +1,579 @@
+
+		WasteLand - Developing your Skills :
+			    (and Using the "tools")
+		====================================
+		==================================== by Wild Bill
+						    -- 4/30/95 --
+
+	Just visit a library to acquire basic (level 1) new skills.
+	DON'T waste your Skill Points (SKP) acquiring higher skill
+	levels at a library. Each higher level requires more skill
+	points and "experience" itself will earn you higher levels.
+
+	Higher Skill Levels can ONLY be reached with "promotions"
+	for your Rangers, so "radio Ranger base" frequently in the
+	beginning of the game for "promotions" !  The SKILL POINTS
+	you distribute should be used to raise the Ranger's I.Q.
+	and STRENGTH attributes. Later, improve any other weak
+	attributes they possess - ie: Speed, Agility, & Dexterity.
+
+	There are 34 different skills that can be acquired by your
+	troops, but all skills are NOT available at all libraries.
+
+	ALL skills are available with a "24" I.Q. Attribute, but the
+	better skills require 3 SKP each.  It may be necessary to
+	raise an I.Q. to "30" to acquire additional SKPs.
+
+      * NOTE - it is NOT necessary for all Rangers to have all skills !
+	The skills marked with a "*" are ONLY needed by ONE member of
+	your group.  Skills marked with a "!" should be possessed by
+	ALL members of your group.
+      *	Also, you'll need 3 MEDICS AND 1 DOCTOR !
+
+	MAXIMUM SKILL LEVELS:
+	--------------------
+		Fighting & Weapons - level "7", however there are rare
+				     opportunities where a skill level
+				     may increase to an "8", if your
+				     skills are already at the maximum
+				     levels !
+
+		Other Basic Skills - level "6", however there are very
+				     limited opportunities to use some
+				     of the skills, so maybe you'll
+				     only reach a level "2".
+				     Bureaucracy, Confidence, Silent
+				     Move, Alarm Disarm, Helicopter
+				     Pilot, Toaster Repair, Cyborg Tech,
+				     and Clone Tech are those skills !
+
+		Medic & Doctor skill - "12" & "6" levels respectively -
+				     details follow below !
+
+	Included are a few tips to raise some skill levels quickly.
+
+
+Fighting and Weapons Skills - are developed by battling the various
+---------------------------   enemies encountered in the game. The
+		      tougher the enemy, the higher the skill level
+		      that can be reached.
+
+		      Las Vegas contains the adversaries that will get
+		      you to the "4" levels, then a robot in the center
+		      of town for some "6" levels. Get your SKILL at the
+		      library and the first of the Laser Weapons here !
+		      Energy Weapon skill is for the Laser (Power Pack
+		      ammo) weapons.  The Laser Pistols are best for
+		      "target practice" to develop your skills.
+
+		      RIFLE skill is MORE USEFUL than it appears. Use
+		      M17 Carbines or M19 Rifles to develop your skills.
+		      The highest fight/weapon skill level attainable
+		      is a "7".  With a 5 to 7 skill level you'll have
+		      fewer "misses" and inflict more "damage" !
+
+		      BRAWLING and/or KNIFE FIGHTING is the best way to
+		      get through most of the game. Conserve ammo and
+		      get your experience (promotions) faster !
+
+		      AT WEAPON skill is a waste. Manglers, rockets, and
+		      RPGs are "one-shot" items.  IF NECESSARY, they can
+		      be used with no "skills",  BUT TRY TO GET CLOSE -
+		      maybe within 20 feet, to avoid some "misses" !
+
+		      When fighting with Pistols or Rifles, you're only
+		      going to fire a single shot. You'll inflict less
+		      damage and kills take longer !
+
+		    * When fighting with any Automatic Weapons (Assault
+		      Rifles, Sub-machine Guns, or Laser Weapons) a
+		      "burst" is "3 shots" and will inflict more damage,
+		      but usually only on ONE adversary !
+
+		      "Full-Automatic" fire is BEST for larger groups of
+		      adversaries (5 or more) OR for really tough/brutal
+		      adversaries - WHEN you're using a "less powerful
+		      weapon" against it !
+
+Medic and Doctor Skills - are developed by "healing" your "wounded troops".
+-----------------------   Level 1-3 MEDICs are basically worthless, just
+		      heal the "SERIOUS" until you reach a higher skill
+		      level. You may be able to heal a "CRITICAL" with
+		      several tries, but don't try it while "fighting".
+		      Level 4-6 MEDICs are really the minimum levels
+		      needed for the first half of the game. You should
+		      have Level 8-10 MEDICs before Base Cochise is
+		      attempted.
+
+		      DOCTOR skill "1" is decent, but get to a Level "3"
+		      as soon as possible. You should have at least ONE
+		      DOCTOR with level 4-5 Skill before Base Cochise.
+
+		      With 7 "promotions" you can reach level "8" MEDIC
+		      and level "5" DOCTOR skills. With 11 "promotions",
+		      you'll be able to reach level "12" MEDIC SKILLS,
+		      but the "11 & 12" levels come slowly, so just keep
+		      practicing !
+		      You should be able to reach level "6" DOCTOR skill
+		      after the 8th. or 9th. "promotion", but this also
+		      comes slowly !
+
+		      Entering back room in the Darwin Village tavern,
+		      and finding the "poisoning victims" may raise a
+		      low to mid level MEDIC skill (raise a "4" to a
+		      "5") level.
+
+** USING MACROS :  When you're trying to develop your "low level" MEDIC
+   ============    skills on a "victim" or PICKLOCK skills on some
+		   of the more difficult locks, using a "macro" will
+		   spare you a lot of keystrokes and aggravation !
+
+		   May also be used when GAMBLING - when you're
+		   winning some money on a regular basis.
+
+		   Press and hold the CTRL key and a FUNCTION key
+		   (F1 to F10) to start recording. Enter the key
+		   strokes necessary. Press and hold the CTRL key
+		   and FUNCTION key to stop recording.
+		   Then, just press the appropriate FUNCTION key
+		   to use your skill !
+
+Other Special Skills :
+--------------------
+      ! PERCEPTION -  Important to find "hidden" loot and clues along
+		      the way. Use PERCEPTION when you receive unusual
+		      messages ! Perception will reveal various booby-
+		      traps just by walking near or over them, also to
+		      find "hidden doors" and "locks" when walking by
+		      them.  These may raise Perception skill levels !
+		      Walk along the "skylight" in Quartz to quickly
+		      raise skills to a level "3" !
+
+      * PICKLOCK  -   There's locked doors and gates almost everywhere.
+		      The first locations are relatively easy and should
+		      open with a few tries. The experience gained here
+		      should make other locations a bit easier. DON'T
+		      get discouraged too easily. Some locks are really
+		      tough and require many tries to open. You'll get
+		      the "experience" just by trying. You should have
+		      level 3-4 PICKLOCK skill when all of Quartz is
+		      done. You'll need level 5-6 skills for the final
+		      location !
+		      A high DEXTERITY attribute may help, allowing you
+		      to reach higher skill levels more quickly.
+
+      * SAFECRACK  -  There's fewer opportunities for SAFECRACKing, but
+		      some "vault doors" can only be opened with this
+		      skill.
+		      Here's where you may raise skill levels:
+		      Quartz - Court House - 2 vault doors.
+		      Hide-Out - by "finding" the "wall safe"
+			         and/or "opening" it.
+		      Sleeper Base-after the "electrified" corridor
+				   on level 3, but don't bother, the
+				   loot is not needed.
+		      Citadel - Weapons & Ammo vault near the Grand
+				Hallway.
+
+      * ALARM DISARM - The locked door in the Las Vegas "JAIL", but
+		      you can get more guards/loot if you open the door
+		      with a TNT instead. PICKLOCK may open this locked
+		      door and disable the alarm in the process.
+
+      * BOMB DISARM - This is better, you can "rescue" a hostage and get
+		      more loot when you succeed ! May also raise the
+		      skill level !
+
+		      Quartz - Stage Coach Inn - Front Desk, cabinet.
+						 Also, in room # 20.
+			       Hide-Out  -  rescue "Felicia".
+
+		      Needles - in the "Ammo Bunker", back shelf.
+
+		      Citadel - "bomb" on Guardian's body.
+
+		      Savage Village- "booby-trapped" chest for loot.
+
+      * SILENT MOVE - Necessary to "overpower the sleeping guard" and
+		      rescue Dan Citrine.  With Dan Citrine, his father
+		      will give you $ 1,000 before he "runs off".
+
+		      Walking around the "rocks" (where Spawnmasters
+		      and animals appear for loot) on the Lower Level
+		      of Project Darwin, is the only place I've found
+		      that MAY raise the SILENT MOVE skill level !
+
+      ! CLIMB -       An important skill for climbing over barriers.
+		      Although tools or explosives may provide you with
+		      an entry, climbing may also get you through. A
+		      level "4" skill is best to climb the slopes of
+		      Finster's test area in Project Darwin, and to
+		      climb to the roof of Base Cochise.
+		      The "sand dunes" in southern Needles will help you
+		      reach level "3" quickly and Spade's Casino will
+		      get you to level "4" quickly - if you find the
+		      right cellar !
+
+      * ACROBAT -     The "sand dunes" in southern Needles will also
+		      raise your ACROBAT skill to level "3".
+		      Two "exploding doorways" at the Citadel may raise
+		      your skill level to a "4".
+
+      ! SWIM    -     Useful to cross various water barriers you may
+		      encounter, but DON'T just dive-in in haste !
+		      There may be a better way.  Some water barriers
+		      can be very hazardous !
+		      Swimming in the desert river will eventually raise
+		      skill to level "6", but acquire some decent armor
+		      first !
+
+      * METALLURGY -  Is a wasted skill. Find a "vein of silver" in TWO
+		      places in the "Abandoned Mine".  Use a PICK AX,
+		      found in the first room, to get some cash.
+
+      * CRYPTOLOGY -  IF you're NOT going to help Faran Brygo, but want
+		      to rob him of his Cash and Weapons, you need this
+		      skill to find a "hidden vault" in his Jaccuzzi
+		      room !
+
+		      One of the machines in the Security Electronics
+		      Room at Base Cochise may raise your skill level
+		      when you walk by it.
+
+      * ELECTRONICS - One machine in the Security Electronics Room can
+		      be used to raise your skill level JUST by "turning
+		      the lights panels off", another will REDUCE the
+		      "Security Check Interval".  EITHER MACHINE will
+		      raise your skill level to a "5", but be careful
+		      NOT to INCREASE the Security Check Interval !
+
+		    * My "secret" solution for opening the "closet door"
+		      and a few "cellar doors" in Spade's Casino AND the
+		      "High Security Doors" in Temple of the Servants of
+		      the Mushroom Cloud.  Why "waste" explosives or
+		      "waste time" trying to use "strength" when the
+		      ELECTRONICS skill will open the doors "cleanly"
+		      and maybe raise the skill to a "6" level !
+
+		      DON'T play with the Cooling Pump Controls in the
+		      =====               Servant's Temple  ! ! ! ! !
+
+      * CLONE TECH -  Necessary to use the Control Panel in Sleeper Base
+		      to "make Clone Fluid".  Take the "Clone Fluid" to
+		      the "pods" to make "clones" of your best troops.
+		      Clone your rangers or best recruits, you can make
+		      FOUR clones, but only add (replace) THREE members
+		      of your roster of troops.
+		      Making "Clone Fluid" will raise the skill level.
+
+      * CYBORG TECH - Necessary to enter the "Mind Link" machine at
+		      Sleeper Base to enter Finster's Maze. The game
+		      can be completed without going through this area.
+		      Entering the "Mind Link" machine may raise the
+		      skill level.
+
+      * TOASTER REPAIR - the "broken toasters" you've found can be
+		      "fixed" for some good loot, TWO of the "keys"
+		      you need and a "missing part" to repair some
+		      equipment at Base Cochise.  These items are
+		      duplicates, and can be found without fixing
+		      the broken toasters.
+
+      * HELICOPTER PILOT - There's only one place (at Sleeper Base) to
+		      acquire this skill. REQUIRED to fly the helicopter
+		      at the Citadel. A "trip" to Base Cochise kills all
+		      the original robots outside the base, but you miss
+		      the experience points gained by killing them.
+			      Flying the helicopter (unlocking the seat)
+			      MAY raise this skill level, but you'll need
+			      a really high I.Q. to achieve it !
+			      (a "30" does not seem to be high enough.)
+
+      * GAMBLE   -    If you want to TRY any of the "slot machines" or
+		      "casino games", be sure to "play" using a Ranger
+		      with GAMBLE skill !
+		      One of the original rangers and a couple of the
+		      recruits already have this skill.
+
+		      For any "casual" gambling - just to raise your
+		      GAMBLE skill level, recommend a minimum LUCK
+		      attribute of "15" !
+
+		      For any "serious" gambling - to raise your GAMBLE
+		      skill level even higher (level "12" is possible),
+		      and "make money" playing, recommend a minimum LUCK
+		      attribute of "20+" !
+
+		      Just a word of caution, some games are better than
+		      others.  The "Casino Car" at Desert Nomads is the
+		      best (least expensive) place to start !
+
+		      If you "recruit" VAX, acquire GAMBLE skill for
+		      him.  His LUCK (LK) Attribute is already "40" !
+		      Then try the "roulette wheels" at Fat Freddy's in
+		      Vegas. (his skill level increases very quickly and
+		      you'll be "making money" when you "play" !  With
+		      only a single promotion to get GAMBLE skill, he'll
+		      be able to reach a "6" skill level, but even then
+		      he'll "win" money for you and "gain experience"
+		      while he "gambles" !)
+
+      * DEMOLITION -  using GRENADES as a weapon is probably the best
+		      way to develop this skill if you so desire.
+		      Clearing a blocked passage in the Abandoned Mine
+		      or using the Howitzer in Downtown Needles may also
+		      raise the skill level.
+   
+      * CONFIDENCE &  are wasted skills. The guard at the locked door, in
+      * BUREAUCRACY   in the Quartz Court House, may open the door for you
+		      and leave.
+		      This may raise your Confidence OR Bureaucracy skill,
+		      but you'll miss some CASH and one of the SONIC KEYs
+		      in the game.
+		      These skills MAY help you get past the "thugs who
+		      are standing in the hall" on the second floor, but
+		      you won't raise skill levels there. Get "thugs" to
+		      be active, then find more "gunmen" and "loot" !
+
+	PUGILISM   -  another wasted skill. Fighting with your "fists"
+		      or bare-hands. Unless you want to acquire and
+		      develop this skill, it's just as good to "beat"
+		      on your adversaries with your "empty weapons" !
+
+Other Skills with no apparent uses :
+==================================
+
+	FORGERY         -       ?  ?  ?
+
+	SLIGHT OF HAND  -       ?  ?  ?
+
+	COMBAT SHOOTING - This skill is ONLY available when you CREATE
+			  additional characters at Ranger Center. There
+			  doesn't appear to be any way to raise this
+			  skill level through "experience", although I
+			  really haven't played the game with any "new"
+			  Rangers.
+
+			  There's a limit of FOUR Rangers with the THREE
+			  remaining slots "reserved" for the "recruits"
+			  you'll encounter.
+
+			  The four original Rangers possess the basic
+			  fighting skills and several of the special
+			  skills described above. Try not to let any of
+			  them "die", but IF you lose them, create any
+			  "replacements" at Ranger Center. FIRST TRADE
+			  ANY WEAPONS and EQUIPMENT to another Ranger !
+ 
+		       ** KEEP PRESSING THE "SPACE BAR" until you get
+			  a HIGH I.Q. (17-18) AND HIGH MAX (30-36) for
+			  your New Ranger. The high I.Q. gives you the
+			  most SKPs to acquire skills !
+
+			  A "15" I.Q. allows you to get MEDIC skill,
+			  but a "17-18" provides you access to a few
+			  more skills.
+
+			  Most skills are 1 SKP each and available with
+			  an I.Q. of 14.  Other skills are 2 or 3 SKP
+			  each and require a higher I.Q.
+  
+				I.Q.     2 SKPs:
+				---      ------
+				 15  Bomb Disarm, Safe Crack, Medic
+				 16  Cryptology
+				 17  Metallurgy
+  
+				I.Q.     3 SKPs:
+				---      ------
+				 19  Helicopter Pilot (at Sleeper Base)
+				 20  Electronics, Toaster Repair
+				 21  Doctor
+				 23  Energy Weapon
+				 23  Clone Tech
+				 24  Cyborg Tech
+  
+ 
+			  DON'T SETTLE FOR ANOTHER "WIMP" OF A RANGER !
+			  TWO of the best Rangers I ever "created" had
+			  these attribute levels -
+
+				   14 -  Strength  - 12
+				   16 -  I.Q.      - 18
+				   14 -  Luck      - 10
+				   18 -  Speed     -  7
+				   14 -  Agility   - 13
+				   13 -  Dexterity - 16
+				   13 -  Charisma  - 15
+
+				   16 - SKP        - 18
+				   36 - MAXCON     - 35
+
+	-------------------------------------------------
+
+
+ARMOR offers a degree of "protection" from the adversaries:
+==========================================================
+
+	Leather Jacket - there's one in Highpool AND four more if
+			 you "fix" the water pump. Your basic armor
+			 until you get something better !
+
+	Robe           - about the same as a "leather jacket" (junk !)
+
+	Bullet-proof shirt - there's just two in Quartz. This really
+			 isn't much better !
+
+	Kevlar Vest   -  there's just one in Quartz and another in
+			 Needles. The best of the "low-grade" armor.
+
+	Rad Suit      -  "medium-grade" armor, AND will also protect
+			 you from "radiation hazards" in the game.
+			 There's two in Needles, also the "recruit"
+			 there has a Rad suit and other supplies.
+
+	Kevlar Suit   -  there's just one when you solve the problem
+			 in Needles, but this will help you survive in
+			 Las Vegas.
+
+			 there's FOUR more in Las Vegas: Spade's Casino,
+			 near the Jail, and two more in the "sewers" !
+
+			 this gives you a "fighting chance" against many
+			 of the robots !
+
+      * Pseudo-chitin Armor - first of the "high-grade" armor. there's
+			 seven in the "Main Vault" in Sleeper Base and
+			 another on the lower level of "Project Darwin".
+			 You CAN'T get to these UNTIL you've completed
+			 the Las Vegas "sewers" !
+
+		       * Conquer the Citadel and forget this armor !
+			 IT CAN BE DONE with Kevlar and Rad Suits, good
+			 Medics, Assault Rifles, a few Rockets and much
+			 "resting" between "battles"!
+			 Be sure to get the BEST Laser Weapons along
+			 the way !
+
+	Power Armor   -  the BEST there is !  there's FIVE in the main
+			 vault at the Citadel. IF you haven't finished
+			 Las Vegas - it'll be a "breeze" now !
+			 there's TWO more in the vault at Base Cochise,
+			 and the "recruit" there has a Power armor and
+			 an extra Pseudo-chitin armor !
+
+			 Get the Power Armor BEFORE trying Base Cochise!
+
+	-------------------------------------------------
+
+
+TOOLS and their uses:
+=====================
+
+	You should ONLY be carrying 1 Shovel, 1 Sledge Hammer, 1 Pick
+		 Ax, and 1 Geiger Counter among your 4 Rangers. DON'T
+		 BOTHER PICKING UP EXTRAS UNLESS YOU INTEND TO SELL
+		 THEM.
+	-------------------------------------------------------
+
+	SHOVEL - gets you "buried loot" in Desert Nomads and the Las
+		 Vegas golf course. Can be used to "dig" out of one of
+		 the cellars in Spade's Casino and to "break through
+		 walls" in the sewers.
+
+	SLEDGE HAMMER - can be used much like a crowbar. This will
+		 "break a hole" through the railing in the lobby of
+		 the Stagecoach Inn and the walls in the sewers.
+
+	PICK AX - used to get "loot" in the Abandoned Mine. Can also
+		 be used to "break through walls" in the sewers and the
+		 fence around the helicopter in the Citadel.
+
+	GEIGER COUNTER - displays and sounds a warning whenever you are
+		 getting close to a RADIATION hazard ! DON'T depend on
+		 it, you're probably moving around so fast you've been
+		 "poisoned" before you can react to it.  Hope you're
+		 watching for the "messages" on the screen !
+
+	CROWBAR - A TOOL that may be used as a weapon. DON'T use to open
+		 locked doors at first locations - get the easy PICKLOCK
+		 "experience" instead. May be used to open first few
+		 doors in Needle's Waste Pit. BEST to open a "hidden"
+		 panel at either end of corridor above esculator in
+		 Base Cochise for easy/safe entry to next level and to
+		 smash the DELICATE MACHINERY to stop the assembly line.
+		 MAY ALSO be used to destroy the Robot Assembly stations
+		 and Security Monitor panels in Base Cochise, BUT this
+		 is just a waste of time !
+
+	ROPE  -  There are a few places where a ROPE is required to get
+		 to "new areas". Use a Rope and you'll have "something
+		 to climb." and ROPE remains for future use.
+		 Also a few places where a ROPE can be used to climb,
+		 BUT the ROPE DOESN'T remain - CLIMB skill should have
+		 been used there !
+		 NEVER be without 2 ROPES among your Rangers, but better
+		 to keep 4 Ropes among troops - replacing "used ropes"
+		 at the first opportunity !
+
+	PROTON AX - although primarilly a super WEAPON, this will open
+		 the "closet door" and "break" the wine-cellar shelves
+		 in Spade's Casino. Can be used to break through fence
+		 around the helicopter in the Citadel. IF you're in a
+		 "destructive mood", any kind of Axes destroy the trees
+		 in "downtown" Needles  (sorry, Chainsaws don't work).
+  
+	GAS MASK - really unnecessary ! If you "chat" with Fat Freddy
+		 and say "NO" to his "deal", you'll wish you had even
+		 ONE Gas Mask.  The "clues" already told you NOT to
+		 say "NO" to Freddy ! ! !
+
+		 ----------------------------------------
+       * BEFORE USING ANY EXPLOSIVES, TRY USING YOUR SKILLS AND
+		 TOOLS FIRST !  THEN, TRY USING THE LEAST EXPENSIVE
+		 EXPLOSIVE YOU HAVE.  About 2 TNTs is all you should
+		 carry until the final locations !
+		 ----------------------------------------
+
+	TNT -    clear a path through the concrete blocks and junk that
+		 block entry to the alley in downtown Needles. Get the
+		 jerks and loot there. Quickest way through last doors
+		 at Needles "Waste Pit", can be used on the closet door
+		 in Spade's Casino AND the "strong high security doors"
+		 in the Temple - Servants of Mushroom Cloud, and MAY be
+		 used on final doors in Brygo's IF you get tired of
+		 trying PICKLOCK !
+		 BEST way through the Citadel's walls and Main Gate, the
+		 final wall inside Sleeper Base's Main Vault, and the
+		 "jammed" Pod Cover Hatches at Base Cochise.
+		 If you "pry open" the hatch covers in the Project
+		 Darwin "lower-level test area", you can "seal them
+		 shut" again with TNT.
+
+	PLASTIC EXPLOSIVE - Best way through final Four doors and wall
+		 at Base Cochise.
+
+		 Various ROCKETS may be used as "explosives", but this
+		 is a "waste" of resources ! IF you really want to get
+		 higher AT WEAPON skills use Manglers and Sabot Rockets
+		 in your "fighting" !
+
+		 SELL the LAW Rockets and RPG-7's, then BUY Manglers at
+		 the Black Market in Darwin Village.
+
+		    (*  =  not available unless you've sold the item !)
+						     (sell)      (buy)
+				RPG 7                 2,500     *5,000
+				LAW Rocket            1,250      2,500
+				Sabot Rocket            550      1,100
+				Mangler                 250        500
+				Plastic Explosive       150        300
+				Grenade                  75        150
+				TNT                      25         50
+  
+				Chainsaw                250        500
+					(better than an AX for BRAWLING-
+					there's only 2 PROTON AXES and
+					2 CHAINSAWS "FREE" in the game.)
+========================================================================
+========================================================================

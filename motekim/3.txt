@@ -1,0 +1,13 @@
+Launch Code: MOTEKIM! solution:
+
+3.
+Finish the Secret Sequences
+---------------------------
+A. Missing value is: 27.  The sequence is the numbers etched on the
+   bracelet backs of Hewey, Dewewy and Louie.
+B. Missing value is: 20.  The sequence is the answers to the questions
+   in the first three arenas of Finster's Mind Maze.
+C. Missing values are: 13, 21, 22, 27.  The sequence is the page numbers
+   in the IBM-PC version of the Wasteland Manual Table of Contents.  
+D. Missing value is: 54.  The sequence is Ugly's bomb disarm code from
+   the FAKE paragraph number 159.
